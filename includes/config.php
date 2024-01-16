@@ -8,7 +8,7 @@
 function config($key = '')
 {
     $config = [
-        'name' => 'Simple Pushpendra PHP Website',
+        'name' => 'Simple Pushpendra branch PHP Website',
         'site_url' => '',
         'pretty_uri' => false,
         'nav_menu' => [
